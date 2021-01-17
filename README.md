@@ -1,2 +1,2 @@
 # hacktoberfest-
-demo for iota
+Demo for iota
